@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/README.md",
+                "file": "Neetcode150/Array-and-Hashing/contains-duplicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/README.md",
+                "file": "Neetcode150/Array-and-Hashing/contains-duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/README.md",
+                "file": "Neetcode150/Array-and-Hashing/contains-duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/README.md"
+                "file": "Neetcode150/Array-and-Hashing/contains-duplicate.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "0c26f62ea5cf05d9",
   "lastOpenFiles": [
-    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
     "Neetcode150/README.md",
+    "README.md",
+    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
     "Neetcode150/Array-and-Hashing/top-k-frequent.md"
   ]
 }
