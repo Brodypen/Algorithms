@@ -1,7 +1,6 @@
 ---
-Status: 
-Tags:
-
+status: 
+tags:
 ---
 ```ad-tldr
 title: Summary
