@@ -3,19 +3,21 @@ status:
 tags:
   - "#review"
   - "#LC_Medium"
-sr-due: 2023-09-28
-sr-interval: 1
-sr-ease: 230
+sr-due: 2023-10-01
+sr-interval: 3
+sr-ease: 250
 ---
-
-<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards and summary</mark>
-
+# Review notes
+## 09/28/2023
+Great review! Leetcode was easy. I feel like I have a deep understand of the question.
+Next time, do it without reading anything, I felt I got it because I read one line.
 # Group Anagrams
 ```ad-tldr
 title: Summary
 collapse: closed
-- First point
-- Second point
+- Array to count every anagram ord(character)-ord('a')
+- Append tuple(array) into hashMap
+- Return hashMap.values()
 ```
 ## How to solve
 
