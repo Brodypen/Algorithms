@@ -3,7 +3,7 @@ status:
 tags:
 ---
 
-Next review: Do neetcode flash cards.
+<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
 
 # Problem name
 ```ad-tldr
