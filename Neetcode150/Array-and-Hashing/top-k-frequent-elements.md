@@ -3,8 +3,8 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-09-29
-sr-interval: 1
+sr-due: 2023-10-01
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -21,8 +21,11 @@ collapse: closed
 
 This problem is solved by:
 Use a hashmap for counter
-Make a pseudo sort array, where the index is count(val), val is [val...] and the size is nums length.
-Loop reverse and append it to result array, once res array is full, return res.
+Make a pseudo Bucketsort array, where the index is count(val), val is [val...] and the size is nums length.
+Loop reverse and append it to result array, once res array is equal to k, return res.
+
+Key notes:
+Know to make unique arrays in array, you have to do [[] for i in range(len(nums) + 1)]. If you don't, you are making copies of the array. That means when u change a val in one array, in changes vals in all. (Because it is only one array)
 
 ### Solution
 ```ad-tldr
@@ -32,12 +35,8 @@ collapse: closed
 ```python
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # Array solution, make an array the size of list.
-        # IF array, has the count of 1, put it in nums[0], count of 2? nums[1]
-
-        # Not good, this needs it to be sorted. See solution.
         count = {}
-        freq = [[] for i in range(len(nums) + 1)]
+        freq = [[] for i in range(len(nums) + 1)] # Important
 
         for n in nums:
             count[n] = 1 + count.get(n, 0)
@@ -45,7 +44,7 @@ class Solution:
             freq[c].append(n)
         
         res = []
-        for i in range(len(freq) - 1, 0, -1):
+        for i in range(len(nums), 0, -1):
             for n in freq[i]:
                 res.append(n)
                 if len(res) == k:
@@ -57,5 +56,5 @@ class Solution:
 
 ---
 # References
-1. 
+1. https://leetcode.com/problems/top-k-frequent-elements/description/
 
