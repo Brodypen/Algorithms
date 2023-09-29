@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md",
+                "file": "Neetcode150/README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9e4a42c123a4fa99",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md",
+                "file": "Neetcode150/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md",
+                "file": "Neetcode150/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md"
+                "file": "Neetcode150/README.md"
               }
             }
           },
@@ -176,10 +166,11 @@
   },
   "active": "0c26f62ea5cf05d9",
   "lastOpenFiles": [
-    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
+    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
     "Neetcode150/README.md",
-    "Templates/Neetcode.md.md",
     "Neetcode150/Array-and-Hashing/group-anagrams.md",
+    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
+    "Templates/Neetcode.md.md",
     "Neetcode150/Array-and-Hashing/valid-anagram.md",
     "Neetcode150/Array-and-Hashing/two-sum.md",
     "Neetcode150/Array-and-Hashing/contains-duplicate.md",

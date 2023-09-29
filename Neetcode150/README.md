@@ -6,4 +6,5 @@
 | [Two Sum](Array-and-Hashing/two-sum.md)                                 | Array and Hashing |                                                                                                  |
 | [Group Anagrams](Array-and-Hashing/group-anagrams.md)                   | Array and Hashing | Hashmap[tuple(countOfLetters)] = list of anagrams                                                |
 | [Top K Frequent Elements](Array-and-Hashing/top-k-frequent-elements.md) | Array and Hashing | HashMap counter, then put it into bucket sort array with index as counter(val). Reverse for loop |
+| [Product of Array except Self](product-of-array-except-self.md)         | Array and Hashing | Calculate prefix and postfix to get the answer.                                                  |
 |                                                                         |                   |                                                                                                  |
