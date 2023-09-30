@@ -3,23 +3,21 @@ status:
 tags:
   - "#review"
   - "#LC_Easy"
-sr-due: 2023-09-30
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-10-14
+sr-interval: 14
+sr-ease: 290
 ---
 
-Next review: Do neetcode flash cards.
-# Contains Duplicate
+# Valid Anagrams
 ```ad-tldr
-title: Summary
+title: Psuedo Solution
 collapse: closed
-- First point
-- Second point
+- Use two hashMap to count each letter in the word
+- Key = Letters, values = Count of letter
+- compare if both hashMap are equal. 
+- If they are, that means they are anagrams.
 ```
-## How to solve
 
-This problem is solved by:
-Use two hashMap to count each letter in the word, then compare if both hashMap are equal. If they are, that means they are anagrams.
 
 ### Solution
 ```ad-tldr
@@ -47,7 +45,10 @@ class Solution:
 
 ---
 ##### Cue Flashcards 🗃
-
+- Brute force solution
+	- Put into an array, sort them and compare. O(n log n) time
+- Keys = Letters, Values = Count of each letters
+	- Time complexity is O(n), space is O(n)
 ---
 # References
 1. https://leetcode.com/problems/valid-anagram/description/

@@ -7,14 +7,12 @@ tags:
 
 # Problem name
 ```ad-tldr
-title: Summary
+title: Psuedo Solution
 collapse: closed
 - First point
 - Second point
 ```
-## How to solve
-
-This problem is solved by:
+## Problem statement
 
 
 ### Solution

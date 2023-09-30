@@ -3,19 +3,25 @@ status:
 tags:
   - "#review"
   - LC_Easy
-sr-due: 2023-09-30
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-10-15
+sr-interval: 15
+sr-ease: 290
 ---
-Next review: Do neetcode flash cards.
+
 # Contains Duplicate
 
-## How to solve
+```ad-tldr
+title: Psuedo Solution
+collapse: closed
+- Putting values into a hashSet
+- Return true if it was already in the set.
+```
 
-This problem is solved by:
-Putting values into a set, then return true if it was already in the set.
 
 ### Solution
+```ad-tldr
+title: Solution
+collapse: closed
 ```python
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
@@ -28,8 +34,15 @@ class Solution:
 ```
 
 
+
+
+
 ---
 ##### Cue Flashcards 🗃
+- How many pairs of elements are there, what is the brute force time?
+	- n^2 amount of pairs, therefore O(n^2) brute force time complexity to just compare.
+- What data structure can we use to lower this time?
+	- A hashSet. This makes the time complexity O(n) with space of O(n)
 
 ---
 # References
