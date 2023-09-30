@@ -1,0 +1,55 @@
+---
+status: 
+tags:
+  - review
+  - LC_Medium
+---
+
+<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
+
+# Longest Consecutive Sequence
+```ad-tldr
+title: Summary
+collapse: closed
+- First point
+- Second point
+```
+## How to solve
+
+This problem is solved by:
+- Put the nums into a set
+- If there is no *left neighbor* (No number to the left of it on a numberline), then that means it the start of the sequence.
+- Count the sequence by traversing right in the set.
+- Result is the max of these counts.
+
+
+### Solution
+```ad-tldr
+title: Solution
+collapse: closed
+
+```python
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        # Method, use a set.
+        # If the number does not exist in the left of it, then you will count to the right.
+        # This will get your the longest in O(n) time
+        numSet = set(nums)
+        res = 0
+        for n in numSet:
+            if (n - 1) not in numSet:
+                count = 1
+                while(n + count) in numSet:
+                    count+=1
+                res = max(res, count)
+        return res
+
+```
+
+---
+##### Cue Flashcards 🗃
+
+---
+# References
+1. 
+
