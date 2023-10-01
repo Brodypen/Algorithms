@@ -3,9 +3,9 @@ status:
 tags:
   - review
   - LC_Easy
-sr-due: 2023-10-01
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-10-16
+sr-interval: 15
+sr-ease: 290
 ---
 
 Next review: Do neetcode flash cards.
@@ -14,13 +14,13 @@ Two Sum
 ```ad-tldr
 title: Summary
 collapse: closed
-- First point
-- Second point
+- Use a hashMap
+	- Key: n : Value = index of n
+- If that exists in the hashMap
+	- return [index of n (hashMap[target-n], currentIndex]
+- If not, then add that value into the hashMap.
 ```
 ## How to solve
-
-This problem is solved by:
-Use a Hash-map, put val: index of nums. Find if it already exists by getting the diff and using that to see in the key exists in the hashMap
 
 ### Solution
 ```ad-tldr
@@ -38,6 +38,12 @@ class Solution:
                 return [hashMap[target-n], index]
             hashMap[n] = index
         return 
+	def otherTwoSum(self, nums: List[int], target: int) -> List[int]:
+        hashMap = {}
+        for index in range(len(nums)):
+            if nums[index] in hashMap:
+                return [index, hashMap[nums[index]]]
+            hashMap[target - nums[index]] = index
 ```
 
 ---

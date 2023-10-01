@@ -1,10 +1,13 @@
 # Neetcode 150 Table
-| Problem                                                                           | Category          | Notes                                                                                                                   |
-| --------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [Contains Duplicate](Array-and-Hashing/contains-duplicate.md)                     | Array and Hashing | Use a hashSet to detect duplicates.                                                                                                                        |
-| [Valid Anagram](Array-and-Hashing/valid-anagram.md)                               | Array and Hashing |                                                                                                                         |
-| [Two Sum](Array-and-Hashing/two-sum.md)                                           | Array and Hashing |                                                                                                                         |
-| [Group Anagrams](Array-and-Hashing/group-anagrams.md)                             | Array and Hashing | Hashmap[tuple(countOfLetters)] = list of anagrams                                                                       |
-| [Top K Frequent Elements](Array-and-Hashing/top-k-frequent-elements.md)           | Array and Hashing | HashMap counter, then put it into bucket sort array with index as counter(val). Reverse for loop                        |
-| [Product of Array except Self](Array-and-Hashing/product-of-array-except-self.md)                   | Array and Hashing | Calculate prefix and postfix to get the answer.                                                                         |
-| [Longest Consecutive Sequence](Array-and-Hashing/longest-consecutive-sequence.md) | Array and Hashing | Make a set, check if it is the start of the sequence, count the length of the sequence, return the max of these counts. | 
+
+## Array and Hashing
+| Problem                                                                           | Notes                                                                                                                   |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Contains Duplicate](Array-and-Hashing/contains-duplicate.md)                     | Use a hashSet to detect duplicates.                                                                                     |
+| [Valid Anagram](Array-and-Hashing/valid-anagram.md)                               |                                                                                                                         |
+| [Two Sum](Array-and-Hashing/two-sum.md)                                           |                                                                                                                         |
+| [Group Anagrams](Array-and-Hashing/group-anagrams.md)                             | Hashmap[tuple(countOfLetters)] = list of anagrams                                                                       |
+| [Top K Frequent Elements](Array-and-Hashing/top-k-frequent-elements.md)           | HashMap counter, then put it into bucket sort array with index as counter(val). Reverse for loop                        |
+| [Product of Array except Self](Array-and-Hashing/product-of-array-except-self.md) | Calculate prefix and postfix to get the answer.                                                                         |
+| [Longest Consecutive Sequence](Array-and-Hashing/longest-consecutive-sequence.md) | Make a set, check if it is the start of the sequence, count the length of the sequence, return the max of these counts. |
+| [Valid Sudoku](Array-and-Hashing/valid-sudoku.md)                                 | Make 3 defaultdict of sets, if the position already exists in one of the sets, return false.                            |
