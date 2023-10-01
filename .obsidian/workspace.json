@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md",
+                "file": "Neetcode150/Array-and-Hashing/valid-sudoku.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md",
+                "file": "Neetcode150/Array-and-Hashing/valid-sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md",
+                "file": "Neetcode150/Array-and-Hashing/valid-sudoku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Array-and-Hashing/group-anagrams.md"
+                "file": "Neetcode150/Array-and-Hashing/valid-sudoku.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "18b39e1118e72b11",
   "lastOpenFiles": [
+    "Neetcode150/Array-and-Hashing/group-anagrams.md",
+    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
     "Neetcode150/Array-and-Hashing/longest-consecutive-sequence.md",
     "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
     "Neetcode150/Array-and-Hashing/valid-anagram.md",
     "Neetcode150/Array-and-Hashing/two-sum.md",
     "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
-    "Neetcode150/Array-and-Hashing/group-anagrams.md",
     "Neetcode150/Array-and-Hashing/contains-duplicate.md",
     "Templates/Neetcode.md.md",
     "Neetcode150/README.md",
