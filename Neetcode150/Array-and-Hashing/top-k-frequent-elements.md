@@ -10,22 +10,24 @@ sr-ease: 230
 
 <mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
 
-# Problem name
+# Top K Frequent Elements
 ```ad-tldr
 title: Summary
 collapse: closed
-- First point
-- Second point
+- Use a counter/hashMap and a freq array (bucket sort)
+- Count the frequency of elements
+	- { 1 : 3, 2 : 2, 3 : 1}
+- Put key value pair into freq (freq is index by value)
+	- Freq table is index by count OF elements, so therefore it should be freq[v].append(key)
+- Loop reverse and append it to result array, once res array is equal to k, return res.
 ```
 ## How to solve
 
-This problem is solved by:
-Use a hashmap for counter
-Make a pseudo Bucketsort array, where the index is count(val), val is [val...] and the size is nums length.
-Loop reverse and append it to result array, once res array is equal to k, return res.
 
 Key notes:
-Know to make unique arrays in array, you have to do [[] for i in range(len(nums) + 1)]. If you don't, you are making copies of the array. That means when u change a val in one array, in changes vals in all. (Because it is only one array)
+Know to make unique arrays in array, you have to do [[] for i in range(len(nums) + 1)]. 
+If you don't, you are making copies of the array. 
+	That means when u change a val in one array, in changes vals in all. (Because it is only one array)
 
 ### Solution
 ```ad-tldr
