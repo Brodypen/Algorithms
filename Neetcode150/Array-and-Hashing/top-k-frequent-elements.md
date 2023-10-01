@@ -3,8 +3,8 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-01
-sr-interval: 2
+sr-due: 2023-10-06
+sr-interval: 5
 sr-ease: 230
 ---
 

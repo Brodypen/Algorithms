@@ -3,11 +3,15 @@ status:
 tags:
   - "#review"
   - "#LC_Medium"
-sr-due: 2023-10-01
-sr-interval: 3
-sr-ease: 250
+sr-due: 2023-10-12
+sr-interval: 11
+sr-ease: 270
 ---
 # Review notes
+## 10/01/2023
+- Remember to counter[ord(char) - ord('a')]
+	- Return .values()
+Feel pretty confident again of this problem, easy to remember and solve. Did this in about 5 minutes!!
 ## 09/28/2023
 Great review! Leetcode was easy. I feel like I have a deep understand of the question.
 Next time, do it without reading anything, I felt I got it because I read one line.
@@ -15,8 +19,9 @@ Next time, do it without reading anything, I felt I got it because I read one li
 ```ad-tldr
 title: Summary
 collapse: closed
-- Array to count every anagram ord(character)-ord('a')
-- Append tuple(array) into hashMap
+- Create hashMap of list
+- Loop through array, to count every anagram ord(character)-ord('a') and put into counter array.
+	- Append tuple(counterArray) into hashMap.defaultdict(list)
 - Return hashMap.values()
 ```
 ## How to solve
@@ -31,6 +36,12 @@ Key : value
 [0,1]... : ['bat']
 ... : ["nat","tan"]
 ... : ["ate","eat","tea"]
+
+Key notes:
+Remember to ord(c) - ord('a') for number index of char
+Remember to wrap the array as a tuple to put into a hashMap
+Return hashMap.values()
+
 ### Solution
 ```ad-tldr
 title: Solution
