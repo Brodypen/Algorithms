@@ -11,3 +11,8 @@
 | [Product of Array except Self](Array-and-Hashing/product-of-array-except-self.md) | Calculate prefix and postfix to get the answer.                                                                         |
 | [Longest Consecutive Sequence](Array-and-Hashing/longest-consecutive-sequence.md) | Make a set, check if it is the start of the sequence, count the length of the sequence, return the max of these counts. |
 | [Valid Sudoku](Array-and-Hashing/valid-sudoku.md)                                 | Make 3 defaultdict of sets, if the position already exists in one of the sets, return false.                            |
+
+# Two Pointers
+| Problem                                           | Notes                                                                                        |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Valid Palindrome](Two-Pointers/valid-palindrome.md) | Two pointers, traversing to middle, return true if they pass eachother. |
