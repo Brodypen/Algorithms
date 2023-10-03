@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5bed12fab7cc83",
+        "id": "f45ba12517cec4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "18b39e1118e72b11",
+            "id": "0c26f62ea5cf05d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Two-Pointers/valid-palindrome.md",
+                "file": "Neetcode150/Two-Pointers/two-sum-sorted.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9e4a42c123a4fa99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Two-Pointers/valid-palindrome.md",
+                "file": "Neetcode150/Two-Pointers/two-sum-sorted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Two-Pointers/valid-palindrome.md",
+                "file": "Neetcode150/Two-Pointers/two-sum-sorted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Two-Pointers/valid-palindrome.md"
+                "file": "Neetcode150/Two-Pointers/two-sum-sorted.md"
               }
             }
           },
@@ -164,21 +174,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18b39e1118e72b11",
+  "active": "0c26f62ea5cf05d9",
   "lastOpenFiles": [
-    "Neetcode150/README.md",
     "Neetcode150/Two-Pointers/valid-palindrome.md",
-    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
-    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
-    "Neetcode150/Two-Pointers",
-    "Neetcode150/Array-and-Hashing/Untitled",
+    "Neetcode150/Two-Pointers/two-sum-sorted.md",
     "Neetcode150/Array-and-Hashing/group-anagrams.md",
-    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
-    "Neetcode150/Array-and-Hashing/two-sum.md",
+    "Neetcode150/Two-Pointers",
+    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
+    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
     "Neetcode150/Array-and-Hashing/longest-consecutive-sequence.md",
-    "Neetcode150/Array-and-Hashing/valid-anagram.md",
-    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
+    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
+    "Neetcode150/README.md",
     "Templates/Neetcode.md.md",
+    "Neetcode150/Array-and-Hashing/valid-anagram.md",
+    "Neetcode150/Array-and-Hashing/two-sum.md",
+    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
     "Neetcode150/Array-and-Hashing/top-k-frequent.md",
     "README.md",
     "Templates"
