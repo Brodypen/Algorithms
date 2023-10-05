@@ -3,9 +3,9 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-07
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-10-06
+sr-interval: 1
+sr-ease: 240
 ---
 
 <mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>

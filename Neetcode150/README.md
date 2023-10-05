@@ -13,6 +13,8 @@
 | [Valid Sudoku](Array-and-Hashing/valid-sudoku.md)                                 | Make 3 defaultdict of sets, if the position already exists in one of the sets, return false.                            |
 
 # Two Pointers
-| Problem                                           | Notes                                                                                        |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Problem                                              | Notes                                                                   |
+| ---------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Valid Palindrome](Two-Pointers/valid-palindrome.md) | Two pointers, traversing to middle, return true if they pass eachother. |
+| [Two Sum Sorted](Two-Pointers/two-sum-sorted.md)     | If sum < target, go right, if sum > target, go left.                    |
+| [Three Sum](Two-Pointers/three-sum.md)               | Three sum                                                                        |
