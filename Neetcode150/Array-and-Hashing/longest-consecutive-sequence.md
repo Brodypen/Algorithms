@@ -3,27 +3,25 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-03
-sr-interval: 3
+sr-due: 2023-10-17
+sr-interval: 11
 sr-ease: 250
 ---
 
-<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
 
 # Longest Consecutive Sequence
 ```ad-tldr
 title: Summary
 collapse: closed
-- First point
-- Second point
-```
-## How to solve
-
-This problem is solved by:
 - Put the nums into a set
 - If there is no *left neighbor* (No number to the left of it on a numberline), then that means it the start of the sequence.
 - Count the sequence by traversing right in the set.
 - Result is the max of these counts.
+```
+## How to solve
+
+This problem is solved by:
+
 
 
 ### Solution
@@ -54,5 +52,5 @@ class Solution:
 
 ---
 # References
-1. 
+1. https://leetcode.com/problems/longest-consecutive-sequence/
 
