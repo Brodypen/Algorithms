@@ -3,9 +3,9 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-06
-sr-interval: 1
-sr-ease: 240
+sr-due: 2023-10-14
+sr-interval: 7
+sr-ease: 260
 ---
 
 <mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
@@ -37,6 +37,16 @@ class Solution:
             elif sum > target:
                 r -=1
             elif sum == target:
+                return [l+1, r+1]
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        l, r = 0, len(numbers) - 1
+        while l < r:
+            while l < r and numbers[l] + numbers[r] < target:
+                l += 1
+            while l < r and numbers[l] + numbers[r] > target:
+                r -=1
+            if(numbers[l] + numbers[r] == target):
                 return [l+1, r+1]
 
 ```
