@@ -3,8 +3,8 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-06
-sr-interval: 5
+sr-due: 2023-10-20
+sr-interval: 13
 sr-ease: 230
 ---
 
@@ -28,7 +28,7 @@ Key notes:
 Know to make unique arrays in array, you have to do [[] for i in range(len(nums) + 1)]. 
 If you don't, you are making copies of the array. 
 	That means when u change a val in one array, in changes vals in all. (Because it is only one array)
-
+PLEASE DONT NAME FOR K, V IN ITEMS() since K IS A PARAMETER 
 ### Solution
 ```ad-tldr
 title: Solution
