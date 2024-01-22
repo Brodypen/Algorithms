@@ -3,12 +3,10 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-04
-sr-interval: 2
+sr-due: 2023-10-13
+sr-interval: 7
 sr-ease: 230
 ---
-
-<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
 
 # Valid Sudoku
 ```ad-tldr

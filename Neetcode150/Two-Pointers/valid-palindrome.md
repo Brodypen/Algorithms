@@ -3,12 +3,10 @@ status:
 tags:
   - review
   - LC_Easy
-sr-due: 2023-10-05
-sr-interval: 3
+sr-due: 2023-10-18
+sr-interval: 11
 sr-ease: 250
 ---
-
-<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
 
 # Problem name
 ```ad-tldr
@@ -19,7 +17,7 @@ collapse: closed
 - If they are, keep bring them into the middle. Once l < r, return true.
 ```
 ## Problem statement
-Notes, check string.lower()
+Notes, check using string.lower()
 Use isalnum() to check if it an alphabet/digit.
 ### Solution
 ```ad-tldr
@@ -47,5 +45,5 @@ class Solution:
 
 ---
 # References
-1. 
+1. https://leetcode.com/problems/valid-palindrome/
 

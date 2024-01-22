@@ -3,9 +3,9 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-04
-sr-interval: 2
-sr-ease: 230
+sr-due: 2023-10-19
+sr-interval: 13
+sr-ease: 250
 ---
 
 <mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
@@ -49,8 +49,24 @@ class Solution:
             postfix *= nums[index]
 
         return arrLeft
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        res = [1] * len(nums)
+
+        # prefix mover
+        prefix = 1
+        for index, n in enumerate(nums):
+            res[index] *= prefix
+            prefix *= n
+        postfix = 1
+        for index, n in reversed(list(enumerate(nums))):
+            res[index] *= postfix
+            postfix *= n
+
+        return res
         
 ```
+
 
 ---
 ##### Cue Flashcards 🗃
