@@ -3,9 +3,15 @@ status:
 tags:
   - review
   - LC_Medium
+<<<<<<< HEAD
+sr-due: 2024-02-26
+sr-interval: 116
+sr-ease: 270
+=======
 sr-due: 2023-10-17
 sr-interval: 11
 sr-ease: 250
+>>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
 ---
 
 
@@ -29,23 +35,25 @@ This problem is solved by:
 title: Solution
 collapse: closed
 
+# New solution
 ```python
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        # Method, use a set.
-        # If the number does not exist in the left of it, then you will count to the right.
-        # This will get your the longest in O(n) time
-        numSet = set(nums)
-        res = 0
-        for n in numSet:
-            if (n - 1) not in numSet:
-                count = 1
-                while(n + count) in numSet:
-                    count+=1
-                res = max(res, count)
-        return res
+        # Use set, if there is no number to the left, then count. Return max.
 
+        longestConSeq = 0
+        numberLine = set(nums)
+        
+        for n in numberLine:
+            if (n-1 not in numberLine):
+                count = 1
+                while n + count in numberLine:
+                    count += 1
+                longestConSeq = max(longestConSeq, count)
+
+        return longestConSeq
 ```
+
 
 ---
 ##### Cue Flashcards 🗃
