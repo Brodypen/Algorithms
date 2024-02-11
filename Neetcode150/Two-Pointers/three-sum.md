@@ -2,9 +2,10 @@
 status: 
 tags:
   - LC_Medium
-sr-due: 2023-10-06
-sr-interval: 1
-sr-ease: 210
+  - review
+sr-due: 2023-12-12
+sr-interval: 8
+sr-ease: 190
 ---
 
 # Three Sum
@@ -18,7 +19,7 @@ collapse: closed
 ```
 ## Problem statement
 
-
+- Need to sort the input before.
 ### Solution
 ```ad-tldr
 title: Solution
@@ -61,5 +62,5 @@ class Solution:
 
 ---
 # References
-1. 
+1. https://leetcode.com/problems/3sum/
 
