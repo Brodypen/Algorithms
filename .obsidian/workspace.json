@@ -1,57 +1,39 @@
 {
   "main": {
-    "id": "e977868ff86732b9",
+    "id": "96a12384797570c9",
     "type": "split",
     "children": [
       {
-        "id": "f45ba12517cec4e3",
+        "id": "cacd1553c127dbd7",
         "type": "tabs",
         "children": [
           {
-            "id": "0c26f62ea5cf05d9",
+            "id": "c72bbc01974a93a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Two-Pointers/container-with-most-water.md",
-<<<<<<< HEAD
-                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
-=======
-                "file": "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
->>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec1da82c359b292c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pythonds3/README.md.md",
+                "file": "Neetcode150/Trees/invert-binary-tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e8fd8c8038c5ffdb",
+    "id": "3b5e167e7dc4f389",
     "type": "split",
     "children": [
       {
-        "id": "2f6b319f38f70e78",
+        "id": "10a78a878882ab7a",
         "type": "tabs",
         "children": [
           {
-            "id": "3a815dd7ca2b5d35",
+            "id": "b1f23efc72530ff3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +43,7 @@
             }
           },
           {
-            "id": "2ea0677d6c8c4d84",
+            "id": "55b21e3797acd582",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +58,7 @@
             }
           },
           {
-            "id": "8d297233d7a4250c",
+            "id": "f5d3e13bf1a5e154",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,25 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "65dde402be469acd",
+    "id": "b0ac1ac95771503d",
     "type": "split",
     "children": [
       {
-        "id": "f6ffcd2e5daaad4a",
+        "id": "b3d6c65307514e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b88087c903fa624",
+            "id": "a51ef3958d3293f9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pythonds3/README.md.md",
-<<<<<<< HEAD
-                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
-=======
-                "file": "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
->>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
+                "file": "Neetcode150/Trees/invert-binary-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,24 +97,19 @@
             }
           },
           {
-            "id": "574d0efa11979aee",
+            "id": "4756484be9a1ee21",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pythonds3/README.md.md",
-<<<<<<< HEAD
-                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
-=======
-                "file": "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
->>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
+                "file": "Neetcode150/Trees/invert-binary-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5f0f4e1d11116215",
+            "id": "062ce330a9a7e4a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,93 +120,53 @@
             }
           },
           {
-            "id": "1e5234685c236ce8",
+            "id": "4f6965f74ae05e4f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pythonds3/README.md.md"
-<<<<<<< HEAD
-                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md"
-=======
-                "file": "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md"
->>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
+                "file": "Neetcode150/Trees/invert-binary-tree.md"
               }
             }
           },
           {
-            "id": "c485dddf9e0f4111",
+            "id": "a8a056fd317039a8",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "e374b628e963ae71",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ec1da82c359b292c",
+  "active": "c72bbc01974a93a8",
   "lastOpenFiles": [
-    "Neetcode150/Two-Pointers/two-sum-sorted.md",
-    "Neetcode150/Two-Pointers/valid-palindrome.md",
-    "Neetcode150/README.md",
-    "Pythonds3/README.md.md",
-    "Pythonds3",
+    "Neetcode150/Trees/Untitled.md",
+    "Neetcode150/Trees/invert-binary-tree.md",
     "Neetcode150/Two-Pointers/three-sum.md",
-    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
-    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
-    "Neetcode150/Array-and-Hashing/group-anagrams.md",
-    "Neetcode150/Array-and-Hashing/longest-consecutive-sequence.md",
-    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
-    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
-    "Neetcode150/Array-and-Hashing/two-sum.md",
-    "Neetcode150/Array-and-Hashing/valid-anagram.md",
-    "Neetcode150/Two-Pointers/valid-palindrome.md",
-    "Neetcode150/Two-Pointers/two-sum-sorted.md",
     "Neetcode150/Two-Pointers/container-with-most-water.md",
-    "2023-10-06.md",
->>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
-    "Templates/Neetcode.md.md",
-    "Neetcode150/Two-Pointers/valid-palindrome.md",
-    "Neetcode150/Two-Pointers/two-sum-sorted.md",
-    "Neetcode150/Two-Pointers/three-sum.md",
-    "2023-10-06.md",
-    "Neetcode150/Array-and-Hashing/group-anagrams.md",
-    "Neetcode150/Two-Pointers",
-<<<<<<< HEAD
-    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
-=======
->>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
-    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
-    "Neetcode150/Array-and-Hashing/valid-anagram.md",
-    "Neetcode150/Array-and-Hashing/two-sum.md",
-    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
-    "Neetcode150/Array-and-Hashing/top-k-frequent.md",
+    "Pythonds3/Trees/6.3-Vocabulary-and-Definitions.md",
+    "Neetcode150/Trees",
+    "Pythonds3/Trees/6.2 Examples of trees.md",
     "README.md",
-    "Templates"
+    "Pythonds3/Trees"
   ]
 }
