@@ -17,12 +17,22 @@
 #         return count
         
 
-S = "o"
-C = "d"
-print(Solution().countSubstrings(S, C)) # 1, got 2
+# S = "o"
+# C = "d"
+# print(Solution().countSubstrings(S, C)) # 1, got 2
 # This test case added line 11, moving r to l+1.
 
 # Couldnt solve, got a time limit exceeded with unknown test case.
 
 # It says the time complexity might be too inefficient.
 # Check later to see correct answer.
+
+
+# Correct solution
+# Logic: Since you have to start and end with c, this is called the triangle number.
+# The formula for the triangle number is n(n+1)/2
+# Return the count of c, and use the formula above.
+class Solution:
+    def countSubstrings(self, s: str, c: str) -> int:
+        x = s.count(c)
+        return x*(x+1)//2
