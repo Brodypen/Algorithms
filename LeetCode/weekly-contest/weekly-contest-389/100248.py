@@ -25,5 +25,9 @@ class Solution:
                 return True
         return False
 
-input = "qg"
-print(Solution().isSubstringPresent(input))
+# input = "qg"
+# print(Solution().isSubstringPresent(input))
+    
+# Better solution
+# Instead of using set, just have the reverse string.
+# Then you check if the substring is in the reverse string.
