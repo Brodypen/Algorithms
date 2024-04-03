@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/single-number.md",
+                "file": "Neetcode150/Bit-Manipulation/number-of-one-bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/single-number.md",
+                "file": "Neetcode150/Bit-Manipulation/number-of-one-bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/single-number.md",
+                "file": "Neetcode150/Bit-Manipulation/number-of-one-bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/single-number.md"
+                "file": "Neetcode150/Bit-Manipulation/number-of-one-bits.md"
               }
             }
           },
@@ -172,8 +172,17 @@
   },
   "active": "ae048da0f6a5e565",
   "lastOpenFiles": [
-    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
     "Neetcode150/Bit-Manipulation/single-number.md",
+    "Neetcode150/Two-Pointers/container-with-most-water.md",
+    "Neetcode150/Bit-Manipulation/number-of-one-bits.md",
+    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
+    "Neetcode150/Array-and-Hashing/two-sum.md",
+    "Neetcode150/Array-and-Hashing/valid-anagram.md",
+    "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
+    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
+    "Neetcode150/Array-and-Hashing/longest-consecutive-sequence.md",
+    "Neetcode150/Array-and-Hashing/group-anagrams.md",
+    "Neetcode150/Array-and-Hashing/contains-duplicate.md",
     "Templates/Neetcode.md.md",
     "Pythonds3/README.md.md",
     "Neetcode150/Bit-Manipulation/sin.md",
@@ -181,7 +190,6 @@
     "Neetcode150/Trees/Untitled.md",
     "Neetcode150/Trees/invert-binary-tree.md",
     "Neetcode150/Two-Pointers/three-sum.md",
-    "Neetcode150/Two-Pointers/container-with-most-water.md",
     "Pythonds3/Trees/6.3-Vocabulary-and-Definitions.md",
     "Neetcode150/Trees",
     "Pythonds3/Trees/6.2 Examples of trees.md",
