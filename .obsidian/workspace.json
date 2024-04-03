@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae048da0f6a5e565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neetcode150/Bit-Manipulation/single-number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Trees/invert-binary-tree.md",
+                "file": "Neetcode150/Bit-Manipulation/single-number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Trees/invert-binary-tree.md",
+                "file": "Neetcode150/Bit-Manipulation/single-number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Trees/invert-binary-tree.md"
+                "file": "Neetcode150/Bit-Manipulation/single-number.md"
               }
             }
           },
@@ -157,8 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c72bbc01974a93a8",
+  "active": "ae048da0f6a5e565",
   "lastOpenFiles": [
+    "Neetcode150/Array-and-Hashing/valid-sudoku.md",
+    "Neetcode150/Bit-Manipulation/single-number.md",
+    "Templates/Neetcode.md.md",
+    "Pythonds3/README.md.md",
+    "Neetcode150/Bit-Manipulation/sin.md",
+    "Neetcode150/Bit-Manipulation",
     "Neetcode150/Trees/Untitled.md",
     "Neetcode150/Trees/invert-binary-tree.md",
     "Neetcode150/Two-Pointers/three-sum.md",
