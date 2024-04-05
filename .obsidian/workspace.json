@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/counting-bits.md",
+                "file": "Neetcode150/Bit-Manipulation/reverse-bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/counting-bits.md",
+                "file": "Neetcode150/Bit-Manipulation/reverse-bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/counting-bits.md",
+                "file": "Neetcode150/Bit-Manipulation/reverse-bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Bit-Manipulation/counting-bits.md"
+                "file": "Neetcode150/Bit-Manipulation/reverse-bits.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "ae048da0f6a5e565",
   "lastOpenFiles": [
-    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
     "Neetcode150/Bit-Manipulation/counting-bits.md",
+    "Neetcode150/Bit-Manipulation/reverse-bits.md",
+    "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
     "Neetcode150/Bit-Manipulation/number-of-one-bits.md",
     "Neetcode150/Bit-Manipulation/single-number.md",
     "Neetcode150/Two-Pointers/container-with-most-water.md",
