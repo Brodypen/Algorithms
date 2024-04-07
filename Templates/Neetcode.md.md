@@ -3,8 +3,6 @@ status:
 tags:
 ---
 
-<mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
-
 # Problem name
 ```ad-tldr
 title: Psuedo Solution
