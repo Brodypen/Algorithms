@@ -22,3 +22,6 @@ class Solution:
 # points = [[0,0],[1,1],[2,2],[3,3],[4,4],[5,5],[6,6]]
 # w = 2
 # print(x.minRectanglesToCoverPoints(points, w)) # 2
+
+# After contest
+# https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/
