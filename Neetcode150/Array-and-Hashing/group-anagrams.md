@@ -3,11 +3,14 @@ status:
 tags:
   - "#review"
   - "#LC_Medium"
-sr-due: 2023-10-12
-sr-interval: 11
-sr-ease: 270
+sr-due: 2024-04-19
+sr-interval: 29
+sr-ease: 250
 ---
 # Review notes
+## 04/16/2024
+Couldn't solve it, it been 6 months.
+So just skip and went to video.
 ## 10/01/2023
 - Remember to counter[ord(char) - ord('a')]
 	- Return .values()

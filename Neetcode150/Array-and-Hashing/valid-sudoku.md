@@ -3,10 +3,11 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-13
-sr-interval: 7
-sr-ease: 230
+sr-due: 2024-04-21
+sr-interval: 27
+sr-ease: 210
 ---
+# Review
 
 # Valid Sudoku
 ```ad-tldr
