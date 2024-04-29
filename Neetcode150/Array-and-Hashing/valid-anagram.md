@@ -3,10 +3,13 @@ status:
 tags:
   - "#review"
   - "#LC_Easy"
-sr-due: 2023-10-14
-sr-interval: 14
-sr-ease: 290
+sr-due: 2024-08-21
+sr-interval: 846
+sr-ease: 310
 ---
+# April 27 2024:
+Did array method [0] * 26, you can also do hashMap.
+Cool thing to remember is that if len(s) != len(t) you can just return False.
 
 # Valid Anagrams
 ```ad-tldr

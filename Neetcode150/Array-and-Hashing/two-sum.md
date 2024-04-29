@@ -3,9 +3,9 @@ status:
 tags:
   - review
   - LC_Easy
-sr-due: 2023-10-16
-sr-interval: 15
-sr-ease: 290
+sr-due: 2024-05-29
+sr-interval: 32
+sr-ease: 270
 ---
 
 Next review: Do neetcode flash cards.

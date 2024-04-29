@@ -3,9 +3,9 @@ status:
 tags:
   - review
   - LC_Easy
-sr-due: 2023-10-18
-sr-interval: 11
-sr-ease: 250
+sr-due: 2024-05-27
+sr-interval: 30
+sr-ease: 230
 ---
 
 # Problem name

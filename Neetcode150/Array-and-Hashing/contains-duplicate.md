@@ -3,9 +3,9 @@ status:
 tags:
   - "#review"
   - LC_Easy
-sr-due: 2023-10-15
-sr-interval: 15
-sr-ease: 290
+sr-due: 2026-08-21
+sr-interval: 846
+sr-ease: 310
 ---
 
 # Contains Duplicate
