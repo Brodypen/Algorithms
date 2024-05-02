@@ -3,13 +3,13 @@ status:
 tags:
   - review
   - LC_Medium
-sr-due: 2023-10-19
-sr-interval: 13
-sr-ease: 250
+sr-due: 2024-06-01
+sr-interval: 31
+sr-ease: 230
 ---
 
 <mark style="background: #FF5582A6;">Next review: Do neetcode flash cards.</mark>
-
+Last review: Couldnt do it but I understodo and figured out the method. Please fix the code.
 # Product of Array except Self
 ```ad-tldr
 title: Summary
