@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode150/Sliding-Window/best-time-to-buy-and-sell-stocks.md",
+                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode150/Sliding-Window/best-time-to-buy-and-sell-stocks.md",
+                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode150/Sliding-Window/best-time-to-buy-and-sell-stocks.md",
+                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode150/Sliding-Window/best-time-to-buy-and-sell-stocks.md"
+                "file": "Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "ae048da0f6a5e565",
   "lastOpenFiles": [
+    "Neetcode150/Sliding-Window/best-time-to-buy-and-sell-stocks.md",
     "Neetcode150/Array-and-Hashing/top-k-frequent-elements.md",
     "Neetcode150/Array-and-Hashing/product-of-array-except-self.md",
     "Neetcode150/Two-Pointers/valid-palindrome.md",
@@ -203,7 +204,6 @@
     "Neetcode150/Two-Pointers/three-sum.md",
     "Pythonds3/Trees/6.3-Vocabulary-and-Definitions.md",
     "Neetcode150/Trees",
-    "Pythonds3/Trees/6.2 Examples of trees.md",
     "Pythonds3/Trees"
   ]
 }

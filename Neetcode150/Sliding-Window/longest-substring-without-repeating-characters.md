@@ -3,8 +3,8 @@ status:
 tags:
   - LC_Easy
   - review
-sr-due: 2023-11-07
-sr-interval: 4
+sr-due: 2025-01-16
+sr-interval: 255
 sr-ease: 270
 ---
 
