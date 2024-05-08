@@ -10,6 +10,20 @@ RED, WHITE, BLUE = range(3)
 
 def dutch_flag_partition(pivot_index: int, A: List[int]) -> None:
     # TODO - you fill in here.
+    # Leetcode 75. Sort Colors:
+    red, white, blue = 0, 0, len(A)-1
+    
+    while white <= blue:
+        if A[white] == 0:
+            A[red], A[white] = A[white], A[red]
+            white += 1
+            red += 1
+        elif A[white] == 1:
+            white += 1
+        else:
+            A[white], A[blue] = A[blue], A[white]
+            blue -= 1
+
     return
 
 
