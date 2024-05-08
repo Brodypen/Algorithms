@@ -30,5 +30,5 @@
 | [Valid Palindrome](Two-Pointers/valid-palindrome.md)      | Two pointers, traversing to middle, return true if they pass eachother. |
 | [Two Sum Sorted](Two-Pointers/two-sum-sorted.md)          | If sum < target, go right, if sum > target, go left.                    |
 | [Three Sum](Two-Pointers/three-sum.md)                    | Three sum                                                               |
-| [Container with Most Water](container-with-most-water.md) | min/max usage.                                                                        |
+| [Container with Most Water](Two-Pointers/container-with-most-water.md) | min/max usage.                                                                        |
 >>>>>>> bb03e4309c6f95682137ca92f8eb9d23b4ace0e5
