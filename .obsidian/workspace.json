@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Problems/Sort_Colors.md",
+                "file": "LeetCode/Neetcode150/Sliding-Window/longest-repeating-character-replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Problems/Sort_Colors.md",
+                "file": "LeetCode/Neetcode150/Sliding-Window/longest-repeating-character-replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Problems/Sort_Colors.md",
+                "file": "LeetCode/Neetcode150/Sliding-Window/longest-repeating-character-replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Problems/Sort_Colors.md"
+                "file": "LeetCode/Neetcode150/Sliding-Window/longest-repeating-character-replacement.md"
               }
             }
           },
@@ -171,9 +171,11 @@
   },
   "active": "c72bbc01974a93a8",
   "lastOpenFiles": [
+    "LeetCode/Problems/Sort_Colors.md",
+    "LeetCode/Neetcode150/Sliding-Window/longest-repeating-character-replacement.md",
+    "LeetCode/Neetcode150/README.md",
     "LeetCode/Neetcode150/Trees/invert-binary-tree.md",
     "LeetCode/Neetcode150/Array-and-Hashing/group-anagrams.md",
-    "LeetCode/Problems/Sort_Colors.md",
     "LeetCode/Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
     "LeetCode/Untitled.md",
     "LeetCode/Problems",
@@ -200,8 +202,6 @@
     "LeetCode/Neetcode150/Bit-Manipulation/number-of-one-bits.md",
     "LeetCode/Neetcode150/Array-and-Hashing/longest-consecutive-sequence.md",
     "Templates/Neetcode.md.md",
-    "Pythonds3/README.md.md",
-    "Neetcode150/Bit-Manipulation/sin.md",
     "LeetCode/Neetcode150/Bit-Manipulation",
     "LeetCode/Neetcode150/Trees",
     "Pythonds3/Trees"
