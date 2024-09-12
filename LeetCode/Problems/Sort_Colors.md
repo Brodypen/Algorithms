@@ -2,7 +2,6 @@
 status: 
 tags:
   - LC_Medium
-  - review
 sr-due: 2024-05-09
 sr-interval: 1
 sr-ease: 230

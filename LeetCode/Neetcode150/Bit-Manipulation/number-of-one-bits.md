@@ -2,7 +2,6 @@
 status: 
 tags:
   - LC_Easy
-  - review
 sr-due: 2024-04-07
 sr-interval: 4
 sr-ease: 270

@@ -2,7 +2,6 @@
 status: 
 tags:
   - LC_Easy
-  - review
 ---
 
 # Problem name

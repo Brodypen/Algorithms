@@ -1,7 +1,6 @@
 ---
 status: 
 tags:
-  - "#review"
   - "#LC_Easy"
 sr-due: 2024-08-21
 sr-interval: 846

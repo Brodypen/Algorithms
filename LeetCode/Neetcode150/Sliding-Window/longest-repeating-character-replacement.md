@@ -2,7 +2,6 @@
 status: 
 tags:
   - LC_Medium
-  - review
   - "#NeetCode150"
   - "#Sliding-Window"
 ---

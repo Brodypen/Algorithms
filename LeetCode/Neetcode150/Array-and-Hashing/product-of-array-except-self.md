@@ -1,7 +1,6 @@
 ---
 status: 
 tags:
-  - review
   - LC_Medium
 sr-due: 2024-06-01
 sr-interval: 31
