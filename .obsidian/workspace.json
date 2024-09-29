@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Two Sigma.md",
+                "file": "Concepts/Linked-List.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Two Sigma.md",
+                "file": "Concepts/Linked-List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Two Sigma.md",
+                "file": "Concepts/Linked-List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Two Sigma.md"
+                "file": "Concepts/Linked-List.md"
               }
             }
           },
@@ -172,8 +172,19 @@
   },
   "active": "4f72b7a212ff95fd",
   "lastOpenFiles": [
-    "LeetCode/Neetcode150/Bit-Manipulation/missing-number.md",
+    "README.md",
+    "Reverse-Linked-List.md",
+    "Untitled.md",
+    "Palindrome-Linked-List.md",
+    "Merge-Two-Linked-List.md",
+    "Linked-List-Cycle.md",
+    "Templates/Neetcode.md.md",
+    "LeetCode/Multiply Strings.md",
     "LeetCode/Two Sigma.md",
+    "Concepts/Linked-List.md",
+    "Concepts",
+    "LeetCode/Problems/Intersection of two Arrays.md",
+    "LeetCode/Neetcode150/Bit-Manipulation/missing-number.md",
     "LeetCode/Neetcode150/Bit-Manipulation/reverse-bits.md",
     "LeetCode/Neetcode150/Sliding-Window/longest-repeating-character-replacement.md",
     "LeetCode/Neetcode150/Array-and-Hashing/valid-anagram.md",
@@ -188,17 +199,7 @@
     "LeetCode/Neetcode150/Two-Pointers/container-with-most-water.md",
     "LeetCode/Neetcode150/Bit-Manipulation/number-of-one-bits.md",
     "LeetCode/Neetcode150/Bit-Manipulation/counting-bits.md",
-    "LeetCode/Neetcode150/Bit-Manipulation/single-number.md",
-    "LeetCode/Neetcode150/Trees/invert-binary-tree.md",
-    "LeetCode/Neetcode150/Two-Pointers/three-sum.md",
-    "LeetCode/Multiply Strings.md",
-    "LeetCode/Neetcode150/README.md",
-    "LeetCode/Neetcode150/Sliding-Window/longest-substring-without-repeating-characters.md",
     "LeetCode/Problems",
-    "LeetCode/Neetcode150/Array-and-Hashing/contains-duplicate.md",
-    "LeetCode/Neetcode150/Two-Pointers/two-sum-sorted.md",
-    "LeetCode/Neetcode150/Bit-Manipulation/sum-of-two-integers.md",
-    "LeetCode/Neetcode150/Bit-Manipulation/reverse-integer.md",
     "LeetCode/weekly-contest/weekly-contest-392/100277.py",
     "LeetCode/weekly-contest/weekly-contest-392/100264.py",
     "LeetCode/weekly-contest/weekly-contest-392/100242.py",

@@ -4,7 +4,7 @@ tags:
   - LC_Medium
   - "#Math"
   - review
-companies: Two Sigma
+  - Two-Sigma
 Link: https://leetcode.com/problems/multiply-strings/description/
 sr-due: 2024-09-12
 sr-interval: 1

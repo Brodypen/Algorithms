@@ -1,9 +1,8 @@
 ---
 status: 
-tags: 
-Link:
+tags:
 ---
-
+https://leetcode.com/problems/intersection-of-two-arrays/
 # Problem name
 ```ad-tldr
 title: Psuedo Solution
@@ -13,11 +12,12 @@ collapse: closed
 ```
 ## Problem statement
 
-Concepts questions:
-What is x/How does x work
-Why  is x important/why I should learn X
-When will I use x
-### Solution (Optimized)
+
+### Solution
+```ad-tldr
+title: Solution
+collapse: closed
+
 ```python
 class Solution:
 
@@ -27,3 +27,6 @@ class Solution:
 ##### Cue Flashcards 🗃
 
 ---
+# References
+1. 
+
