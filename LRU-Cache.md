@@ -1,6 +1,14 @@
 ---
-tags: 
-Link:
+status: 
+tags:
+  - LC_Medium
+  - NeetCode150
+  - Linked-List
+  - review
+Link: https://leetcode.com/problems/lru-cache/
+sr-due: 2024-09-30
+sr-interval: 1
+sr-ease: 230
 ---
 
 # Problem name
@@ -26,3 +34,6 @@ class Solution:
 ##### Cue Flashcards 🗃
 
 ---
+
+DO LFU Cache
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
