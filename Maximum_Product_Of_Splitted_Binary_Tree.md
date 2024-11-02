@@ -1,10 +1,9 @@
 ---
-tags:
-  - review
+tags: 
 Link:
 ---
 
-# Problem name
+# Maximum Product of Splitted Binary Tree
 ```ad-tldr
 title: Psuedo Solution
 collapse: closed
